@@ -1,0 +1,9 @@
+{
+  "name": "NectarDAO",
+  "short_name": "NectarDAO",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "",
+  "background_color": "#ffffff"
+}
